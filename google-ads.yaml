@@ -1,0 +1,5 @@
+client_id: ''Aqui informe o client id que voce consegue no google cloud'
+client_secret: 'Aqui informe o client secret que voce consegue no google cloud'
+refresh_token: 'Aqui adicione o Refresh token que voce consegue gerar pelo arquivo (atualiza_token.py)'
+developer_token: 'Aqui adicione o token de desenvolvedor que voce consegue no gerenciador de anuncio'
+use_proto_plus: True
